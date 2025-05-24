@@ -12,3 +12,4 @@ else
 end
 
 print("Done")
+fs.delete("install.lua")
